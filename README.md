@@ -4,7 +4,6 @@
 
 ## About
 
--  My blog: faka.dev
 -  I’m currently working on [N̶o̶n̶-̶D̶i̶s̶c̶l̶o̶s̶u̶r̶e̶ ̶A̶g̶r̶e̶e̶m̶e̶n̶t̶]
 -  I’m currently learning pentesting and software architecture
 -  Ask me about web development and anarchistic individualism

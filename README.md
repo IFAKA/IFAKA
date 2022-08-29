@@ -1,5 +1,5 @@
-### 👋 Hello you, yes you, stop reading this with a mind voice and ✨speak up✨ 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/LysanderSpooner2_%28cropped%29.jpg/800px-LysanderSpooner2_%28cropped%29.jpg">
+### 👋 Hello you, yes you, stop reading this with your mind voice and speak up !!!
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/LysanderSpooner2_%28cropped%29.jpg/800px-LysanderSpooner2_%28cropped%29.jpg" width="375px">
 ## 🧐 About
 
 - 👨‍💻 My blog: faka.dev

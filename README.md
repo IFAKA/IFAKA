@@ -1,8 +1,6 @@
 ## Hello you 👋 Yes you, stop reading this with your mind voice and speak up !!!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/LysanderSpooner2_%28cropped%29.jpg/800px-LysanderSpooner2_%28cropped%29.jpg" width="133px">
-
-###### (I'm not the guy in the picture)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/LysanderSpooner2_%28cropped%29.jpg/800px-LysanderSpooner2_%28cropped%29.jpg" width="133px">(I'm not the guy in the picture)
 
 ## About
 

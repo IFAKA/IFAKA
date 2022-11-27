@@ -4,6 +4,7 @@
 
 ## About
 
+I am driven by vision, discipline and creativity. I like to hack things and give them a new use.
 -  I’m currently learning about cybersecurity and software architecture
 -  Ask me about web development and Taoism
 -  Reach me: me@faka.dev

@@ -15,7 +15,7 @@ I thrive on responsive frontends but am eager to explore **quantitative finance*
   - **[banking](https://github.com/IFAKA/banking)**: Horizon, a Next.js 14 banking platform teasing my finance interest.
   - **[lumyn](https://github.com/IFAKA/lumyn)**: Mobile-first TypeScript PWA for upskilling, fueling my quant and faith-driven learning.
 - 🧠 **Let’s Talk**: Frontend tips, quant aspirations, Orthodox Christian perspectives, or the holiness of clean code.
-- 📬 **Get in Touch**: [me@faka.dev](mailto:facundoarenas29@gmail.com) | [LinkedIn](https://linkedin.com/in/faka)
+- 📬 **Get in Touch**: [Email](mailto:facundoarenas29@gmail.com) | [LinkedIn](https://linkedin.com/in/faka)
 - ⚡ **Fun Fact**: A Jesus Prayer session untangled a stubborn CSS bug—faith sharpens my focus.
 
 ---

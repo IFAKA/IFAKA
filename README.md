@@ -10,10 +10,10 @@ I thrive on responsive frontends but am eager to explore **quantitative finance*
 
 - 💻 **What I Excel At**: Frontend mastery with **TypeScript**, **JavaScript**, **CSS**, and **Vue**, plus growing **Python** skills.
 - 🔥 **Projects That Stand Out**:
-  - **[idea-lista]([link](https://github.com/IFAKA/idea-lista))**: TypeScript/React Chrome extension enhancing Idealista.com property search—ripe for financial data pivots.
-  - **[job-market-dashboard]([link](https://github.com/IFAKA/job-market-dashboard))**: Recent TypeScript dashboard with market viz potential (updated yesterday!).
-  - **[banking]([link](https://github.com/IFAKA/banking))**: Horizon, a Next.js 14 banking platform teasing my finance interest.
-  - **[lumyn]([link](https://github.com/IFAKA/lumyn))**: Mobile-first TypeScript PWA for upskilling, fueling my quant and faith-driven learning.
+  - **[idea-lista](https://github.com/IFAKA/idea-lista)**: TypeScript/React Chrome extension enhancing Idealista.com property search—ripe for financial data pivots.
+  - **[job-market-dashboard](https://github.com/IFAKA/job-market-dashboard)**: Recent TypeScript dashboard with market viz potential (updated yesterday!).
+  - **[banking](https://github.com/IFAKA/banking)**: Horizon, a Next.js 14 banking platform teasing my finance interest.
+  - **[lumyn](https://github.com/IFAKA/lumyn)**: Mobile-first TypeScript PWA for upskilling, fueling my quant and faith-driven learning.
 - 🧠 **Let’s Talk**: Frontend tips, quant aspirations, Orthodox Christian perspectives, or the holiness of clean code.
 - 📬 **Get in Touch**: [me@faka.dev](mailto:facundoarenas29@gmail.com) | [LinkedIn](https://linkedin.com/in/faka)
 - ⚡ **Fun Fact**: A Jesus Prayer session untangled a stubborn CSS bug—faith sharpens my focus.
@@ -36,14 +36,7 @@ I thrive on responsive frontends but am eager to explore **quantitative finance*
 
 ## My GitHub Game
 
-- 🌟 **Stars Earned**: 4
-- 💾 **Commits (2025)**: 120
-- 🔄 **PRs**: 6
-- 📅 **Total Contributions**: 298 (Feb 6, 2022 - Present)
-- 🔥 **Current Streak**: Aug 16
-- 📈 **Longest Streak**: Aug 10 - Aug 14
-
-![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=FAKA&layout=compact&theme=gruvbox)
+![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=IFAKA&layout=compact&theme=gruvbox)
 
 ---
 

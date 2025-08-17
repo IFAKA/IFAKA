@@ -8,7 +8,7 @@ I’m a **Frontend Developer** crafting stunning, user-friendly web experiences,
 
 I thrive on responsive frontends but am eager to explore **quantitative finance**—think algorithmic trading and data insights—while sharpening my skills. My TypeScript expertise drives my work, with Python as my bridge to quant territory.
 
-- 💻 **What I Excel At**: Frontend mastery with **TypeScript**, **JavaScript**, **CSS**, and **Vue**, plus growing **Python** skills.
+- 💻 **What I Excel At**: Frontend mastery with **TypeScript**, **Next**, **Tailwind**, and **React**, plus growing **Python** skills.
 - 🔥 **Projects That Stand Out**:
   - **[idea-lista](https://github.com/IFAKA/idea-lista)**: TypeScript/React Chrome extension enhancing Idealista.com property search—ripe for financial data pivots.
   - **[job-market-dashboard](https://github.com/IFAKA/job-market-dashboard)**: Recent TypeScript dashboard with market viz potential (updated yesterday!).

@@ -3,7 +3,7 @@
 
 ---
 
-I’m a **Frontend Developer** crafting user-friendly web experiences with an eye on **quantitative finance**. I build with precision and pursue growth with purpose.
+I’m a **Frontend Developer** crafting user-friendly web experiences with an eye on **quantitative finance** and **AI Engineering**. I build with precision and pursue growth with purpose.
 
 ### Let’s Connect:
 
@@ -15,7 +15,7 @@ I’m a **Frontend Developer** crafting user-friendly web experiences with an ey
 
 - **Languages**: TypeScript, JavaScript, CSS, Python (emerging)
 - **Tools & Frameworks**: Vue, React, Next.js, Tailwind CSS, Three.js
-- **Focus Areas**: Quantitative finance (aspirational), data visualization
+- **Focus Areas**: Quantitative finance and AI Engineering (aspirational), data visualization
 
 ---
 

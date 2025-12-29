@@ -1,5 +1,5 @@
 <h1 align="center"><img width="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Hi, I’m FAKA</h1>
-<h3 align="center">Frontend Developer & Quant Finance Enthusiast</h3>
+<h3 align="center">Frontend → AI Engineer | Building tools to understand ML</h3>
 
 ---
 
@@ -15,7 +15,7 @@ I’m a **Frontend Developer** crafting user-friendly web experiences with an ey
 
 - **Languages**: TypeScript, JavaScript, CSS, Python (emerging)
 - **Tools & Frameworks**: Vue, React, Next.js, Tailwind CSS, Three.js
-- **Focus Areas**: Quantitative finance and AI Engineering (aspirational), data visualization
+- **Focus Areas**: Quantitative finance (aspirational) and AI Engineering, data visualization
 
 ---
 

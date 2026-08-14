@@ -6,22 +6,23 @@ Turn the profile README into a quiet personal statement. GitHub's pinned reposit
 
 ## Direction
 
-Use one centered identity block. The GitHub profile already supplies the owner's name, repository list, pinned projects, and activity, so the README should not repeat them.
+Use a left-aligned, human profile block. The GitHub profile already supplies the repository list, pinned projects, and activity, so the README should add context rather than repeat them.
 
 The meaningful content is:
 
-- role: `ai engineer`
-- what is being built: tools where local models meet real interfaces — terminals, browsers, music, and learning
-- point of view: software should be useful on Monday and make people curious on Tuesday
-- interests: inference, agents, developer tools, human interfaces
+- identity: `ai engineer building tools at the edge of models and people`
+- direction: local inference, agentic systems, and understandable interfaces
+- current work: controllable local AI, developer tools, and experiments that become real software
 - invitation: a clear `say hi` email link
 
 ## Content rules
 
-- Lowercase editorial voice.
+- Left-aligned, conversational voice.
+- Lowercase editorial voice after the display name.
 - No project links, badges, stack lists, or decorative symbols.
 - Use one concrete sentence about the kinds of tools being built.
-- Include one memorable, human sentence that gives the profile a point of view.
+- Use one paragraph to make the technical direction tangible.
+- Use three compact current-interest bullets.
 - Make contact feel like an invitation rather than a directory entry.
 - Keep contact links quiet and visible.
 - Keep links as the only visual accent.

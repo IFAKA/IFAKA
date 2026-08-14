@@ -10,4 +10,4 @@ i like software where you can just say what you want to happen, see what the com
 
 most things here start because i wanted something and it didn’t exist.
 
-[say hi](mailto:facundoarenas29@gmail.com)
+[say hi](mailto:facundoarenas29@gmail.com)‎ ‎ ‎ ‎ ‎ ‎<img alt="giphy6-ezgif com-crop" src="https://github.com/user-attachments/assets/fd65c1d7-b907-46d6-b986-2398690e7091" />

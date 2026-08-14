@@ -1,4 +1,4 @@
-<img align="left" alt="output-onlinegiftools1-ezgif com-resize" src="https://github.com/user-attachments/assets/6c6bbd81-2d12-4223-a32a-babecfdb3ceb" />
+<img align="left" alt="output-onlinegiftools1-ezgif com-speed" src="https://github.com/user-attachments/assets/6d59f14e-2379-47a9-b4ef-b68a138202c2" />
 
 ### faka
 

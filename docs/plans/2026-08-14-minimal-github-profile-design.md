@@ -11,15 +11,15 @@ Use one centered identity block. The GitHub profile already supplies the owner's
 The meaningful content is:
 
 - role: `ai engineer`
-- focus: local inference and humane interfaces
-- keywords: inference, agents, developer tools
+- point of view: building local-first AI tools that give people more control over how software thinks, works, and feels
+- interests: inference, agents, developer tools, human interfaces
 - contact: email
 
 ## Content rules
 
 - Lowercase editorial voice.
 - No project links, badges, stack lists, or decorative symbols.
-- Use one short sentence to explain the engineering focus.
+- Use one short sentence to explain the engineering focus and point of view.
 - Keep contact links quiet and visible.
 - Keep links as the only visual accent.
 - Use blank lines to create grouping and rhythm.

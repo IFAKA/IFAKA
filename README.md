@@ -4,11 +4,11 @@
 
 ## ai engineer
 
-building AI tools with a focus on local inference and humane interfaces
+I build local-first AI tools for people who want more control over how software thinks, works, and feels.
 
 <br>
 
-<sub>inference · agents · developer tools · thoughtful software</sub>
+<sub>interested in inference · agents · developer tools · human interfaces</sub>
 
 <br><br>
 

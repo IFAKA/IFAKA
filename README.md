@@ -1,22 +1,11 @@
 ## faka
 
-```text
-faka@local ~ % ./build
-[model]   thinking
-[human]   deciding
-[machine] doing
-```
+software engineer. i build a lot of things.
 
-software engineer exploring how AI changes the way we interact with computers.
+right now i’m mostly messing with local AI, agents, devtools, and different ways of interacting with computers.
 
-i’m mostly interested in local models, agents, and interfaces where you describe what you want and the computer figures out how to do it.
+i like software where you can just say what you want to happen, see what the computer is going to do, and stay in control of it.
 
-i like building small, opinionated tools around that idea, usually for the terminal, browser, or devices that probably weren’t meant to run AI.
+most things here start because i wanted something and it didn’t exist.
 
-currently working on:
-
-- local AI that stays fast, private, and under your control
-- developer tools with less interface and less friction
-- intent-driven interfaces that hide complexity without hiding what the computer is doing
-
-if you’re working on something similar, [say hi](mailto:facundoarenas29@gmail.com).
+[say hi](mailto:facundoarenas29@gmail.com)

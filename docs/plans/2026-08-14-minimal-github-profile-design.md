@@ -2,26 +2,25 @@
 
 ## Goal
 
-Turn the profile README into a quiet, highly curated index of projects that developers want to click and hiring-minded readers can understand quickly.
+Turn the profile README into a quiet personal statement. GitHub's pinned repositories already provide the project portfolio, so the README should add context rather than repeat project links.
 
 ## Direction
 
-Use `things worth clicking` as the only framing line. The GitHub profile already supplies the owner's name and identity, so the README should not repeat `faka`, job title, or technology list.
+Use one centered identity block. The GitHub profile already supplies the owner's name, repository list, pinned projects, and activity, so the README should not repeat them.
 
-Show six projects that communicate range and taste:
+The meaningful content is:
 
-- `github-enhancer` — a GitHub-native developer tool with visible demos
-- `pith` — a tiny CSS framework focused on semantic HTML and accessible UI
-- `whytop` — a Rust process tool with local AI explanations
-- `yt-presenter` — a creative local-LLM reading experience for YouTube
-- `diffusion-learn` — an interactive way to learn diffusion models
-- `seedtone` — generative music with adaptive personalization
+- role: `ai engineer`
+- focus: local inference and humane interfaces
+- keywords: inference, agents, developer tools
+- contact: email and LinkedIn
 
 ## Content rules
 
 - Lowercase editorial voice.
-- One short description per project.
-- No badges, stack lists, horizontal rules, headings for every project, or decorative symbols.
+- No project links, badges, stack lists, or decorative symbols.
+- Use one short sentence to explain the engineering focus.
+- Keep contact links quiet and visible.
 - Keep links as the only visual accent.
 - Use blank lines to create grouping and rhythm.
 - End with quiet contact links.
@@ -29,6 +28,6 @@ Show six projects that communicate range and taste:
 ## Success criteria
 
 - The README can be understood in one scan.
-- Every listed project is distinctive and worth opening.
+- The README adds information not already present in the profile layout.
 - No identity is repeated unnecessarily.
-- The set communicates frontend craft, systems thinking, and applied AI without calling itself a résumé.
+- A hiring-minded reader understands the role and technical direction immediately.

@@ -1,15 +1,22 @@
 ## faka
 
-ai engineer building tools at the edge of models and people.
+```text
+faka@local ~ % ./build
+[model]   thinking
+[human]   deciding
+[machine] doing
+```
 
-i’m interested in local inference, agentic systems, and interfaces
-that make powerful software feel understandable — usually in a
-terminal, a browser, or something a little stranger.
+software engineer exploring how AI changes the way we interact with computers.
 
-currently exploring:
+i’m mostly interested in local models, agents, and interfaces where you describe what you want and the computer figures out how to do it.
 
-- local AI that people can actually control
-- developer tools that remove friction
-- small experiments that turn into real software
+i like building small, opinionated tools around that idea, usually for the terminal, browser, or devices that probably weren’t meant to run AI.
 
-if you’re building something thoughtful, [say hi](mailto:facundoarenas29@gmail.com).
+currently working on:
+
+- local AI that stays fast, private, and under your control
+- developer tools with less interface and less friction
+- intent-driven interfaces that hide complexity without hiding what the computer is doing
+
+if you’re working on something similar, [say hi](mailto:facundoarenas29@gmail.com).

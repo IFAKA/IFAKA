@@ -4,15 +4,19 @@
 
 ## ai engineer
 
-I build local-first AI tools for people who want more control over how software thinks, works, and feels.
+I build tools where local models meet real interfaces — terminals, browsers, music, and learning.
 
 <br>
 
-<sub>interested in inference · agents · developer tools · human interfaces</sub>
+I like software that is useful on Monday and makes you curious on Tuesday.
+
+<br>
+
+<sub>inference · agents · developer tools · human interfaces</sub>
 
 <br><br>
 
-[mail](mailto:facundoarenas29@gmail.com)
+[say hi](mailto:facundoarenas29@gmail.com)
 
 <br>
 

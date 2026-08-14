@@ -11,15 +11,18 @@ Use one centered identity block. The GitHub profile already supplies the owner's
 The meaningful content is:
 
 - role: `ai engineer`
-- point of view: building local-first AI tools that give people more control over how software thinks, works, and feels
+- what is being built: tools where local models meet real interfaces — terminals, browsers, music, and learning
+- point of view: software should be useful on Monday and make people curious on Tuesday
 - interests: inference, agents, developer tools, human interfaces
-- contact: email
+- invitation: a clear `say hi` email link
 
 ## Content rules
 
 - Lowercase editorial voice.
 - No project links, badges, stack lists, or decorative symbols.
-- Use one short sentence to explain the engineering focus and point of view.
+- Use one concrete sentence about the kinds of tools being built.
+- Include one memorable, human sentence that gives the profile a point of view.
+- Make contact feel like an invitation rather than a directory entry.
 - Keep contact links quiet and visible.
 - Keep links as the only visual accent.
 - Use blank lines to create grouping and rhythm.

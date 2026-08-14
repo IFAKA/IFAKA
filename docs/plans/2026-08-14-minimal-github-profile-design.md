@@ -13,7 +13,7 @@ The meaningful content is:
 - role: `ai engineer`
 - focus: local inference and humane interfaces
 - keywords: inference, agents, developer tools
-- contact: email and LinkedIn
+- contact: email
 
 ## Content rules
 
@@ -23,7 +23,7 @@ The meaningful content is:
 - Keep contact links quiet and visible.
 - Keep links as the only visual accent.
 - Use blank lines to create grouping and rhythm.
-- End with quiet contact links.
+- End with one quiet contact link.
 
 ## Success criteria
 

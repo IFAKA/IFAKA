@@ -12,7 +12,7 @@ building AI tools with a focus on local inference and humane interfaces
 
 <br><br>
 
-[mail](mailto:facundoarenas29@gmail.com) · [linkedin](https://linkedin.com/in/faka)
+[mail](mailto:facundoarenas29@gmail.com)
 
 <br>
 

@@ -11,3 +11,11 @@ i like software where you can just say what you want to happen, see what the com
 most things here start because i wanted something and it didn’t exist.
 
 [say hi](mailto:facundoarenas29@gmail.com)‎ ‎ ‎ ‎ ‎ ‎<img alt="giphy6-ezgif com-crop" src="https://github.com/user-attachments/assets/fd65c1d7-b907-46d6-b986-2398690e7091" />
+
+---
+
+## Support
+
+If this project is useful to you, you can support my work:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zfaka)
